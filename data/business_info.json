@@ -1,0 +1,10 @@
+{
+  "name": "Sree’s Home Bakery",
+  "type": "Home Bakery",
+  "location": "Kakinada, Andhra Pradesh, India",
+  "address": "Mega Residency 64-1h-5e/ff4, Janaki Ram Nagar, Treasury Colony, Pratap Nagar, Kakinada – 533004",
+  "phones": ["7981468535", "8801121818"],
+  "hours": "9:00 AM – 9:00 PM",
+  "cake_options": ["Egg", "Eggless"],
+  "cake_orders": "Cake orders should be placed 1 day before."
+}
